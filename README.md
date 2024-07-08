@@ -3,3 +3,10 @@
 </div><br>
 - AI Closed Caption <br>
 * whisper 예외처리 개선 => 문자 <-> 숫자 변환 / 띄어쓰기 예외처리 필요
+<br>
+<li> 기존 whisper wer : 8.66% / hand_operated 조정 후 wer : 5.62%
+</li>
+<li> 기존 tiktoken wer : 13.61% / hand_operated 조정 후 wer : 6.87%</li><br>
+- Evaluation tool model
+* tiktoken code parameter 조정 필요 (띄어쓰기, 숫자 <-> 문자)
+* 약어 u.s -> us 에 대한 출력 오류 개선 필요
