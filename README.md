@@ -11,7 +11,7 @@
 <li> tiktoken code parameter 조정 필요 (띄어쓰기, 숫자 <-> 문자)</li>
 <li> 약어 u.s -> us 에 대한 출력 오류 개선 필요</li><br>
 - LLM model 기반 Data-refine tool 개발<br>
-<li> OpenAI LLM model : LLAMA </li><br>
+<li> OpenAI LLM model : LLAMA </li>
 <li> OpenAI GPT 기반 Data-refine 프롬프트 개발
 
 
