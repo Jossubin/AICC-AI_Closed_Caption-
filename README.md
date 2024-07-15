@@ -12,7 +12,7 @@
 <li> 약어 u.s -> us 에 대한 출력 오류 개선 필요</li><br>
 - LLM model 기반 Data-refine tool 개발<br>
 <li> OpenAI LLM model : LLAMA </li>
-<li> OpenAI GPT 기반 Data-refine 프롬프트 개발
+<li> OpenAI GPT 기반 Data-refine 프롬프트 개발.
 
 
 
