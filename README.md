@@ -15,4 +15,3 @@
 <li> OpenAI GPT 기반 Data-refine 프롬프트 개발.
 
 
-
